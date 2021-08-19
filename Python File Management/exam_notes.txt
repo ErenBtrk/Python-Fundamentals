@@ -1,0 +1,5 @@
+ali veli:90,70,60
+isa musa:50,60,80
+ayse fatma:40,50,50
+haydar faruk:9,90,100
+elif sena:85,90,80
